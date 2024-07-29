@@ -1,0 +1,25 @@
+Basic Pantry Tracker
+
+# Add Item
+# Remove Item
+# Update Item
+# View Pantry [Warning if expiry in 7 days]
+
+CSV File:
+# Item Name
+# Quantity
+# Category / Tags
+# Expiry Date
+
+## High Achiever - Recipe Recommendation (use of API)
+
+Look:
+# Signup / Signin Page
+	# Name, Email ID, Password
+# Good morning / afternoon / evening <Name>
+# LHS - Pantry table, Warning
+# RHS - Recipe Recommendation
+
+# Yet to Do:
+	# 1. Remove Item
+	# 2. Update Item
